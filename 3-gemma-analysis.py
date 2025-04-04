@@ -10,8 +10,8 @@ Execute this script after Step 1 (Step 2 is optional).
 """
 
 # Install required packages
-!pip install -q git+https://github.com/huggingface/transformers@v4.49.0-Gemma-3
-!pip install -q torch pillow matplotlib numpy
+# !pip install -q git+https://github.com/huggingface/transformers@v4.49.0-Gemma-3
+# !pip install -q torch pillow matplotlib numpy
 
 import torch
 from transformers import AutoProcessor, Gemma3ForConditionalGeneration
