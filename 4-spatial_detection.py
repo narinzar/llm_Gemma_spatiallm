@@ -15,6 +15,9 @@ from huggingface_hub import login
 from PIL import Image
 import matplotlib.pyplot as plt
 import os
+from dotenv import load_dotenv
+ 
+load_dotenv()   
 
 # File configuration
 IMAGE_PATH = "1.jpg"  # Your image file
