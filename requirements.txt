@@ -1,0 +1,21 @@
+# Specific version of transformers for Gemma 3 support
+git+https://github.com/huggingface/transformers@v4.49.0-Gemma-3
+
+# PyTorch and related libraries
+torch
+torchvision
+
+# Computer vision
+pillow
+supervision
+
+# Visualization
+matplotlib
+plotly
+networkx
+
+# Data processing
+numpy
+
+# Hugging Face utilities
+huggingface-hub

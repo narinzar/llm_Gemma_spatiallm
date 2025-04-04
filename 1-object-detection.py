@@ -10,9 +10,9 @@ Execute this script first.
 """
 
 # Install required packages
-!pip install -q git+https://github.com/huggingface/transformers@v4.49.0-Gemma-3
-!pip install -q torch torchvision
-!pip install -q supervision pillow matplotlib numpy
+# !pip install -q git+https://github.com/huggingface/transformers@v4.49.0-Gemma-3
+# !pip install -q torch torchvision
+# !pip install -q supervision pillow matplotlib numpy
 
 import torch
 from transformers import YolosForObjectDetection, YolosImageProcessor

@@ -10,7 +10,7 @@ Execute this script after Step 1.
 """
 
 # Install required packages
-!pip install -q plotly pillow matplotlib numpy
+# !pip install -q plotly pillow matplotlib numpy
 
 import json
 import numpy as np
