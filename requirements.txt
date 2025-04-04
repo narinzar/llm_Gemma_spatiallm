@@ -16,6 +16,7 @@ networkx
 
 # Data processing
 numpy
+pandas
 
 # Hugging Face utilities
 huggingface-hub
