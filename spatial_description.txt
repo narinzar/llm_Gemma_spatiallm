@@ -1,0 +1,19 @@
+Okay, here’s a detailed spatial analysis of the image you provided:
+
+**Detected objects:** Microwave, Control Panel, Interior Cavity, Ventilation Grille, Brand Logo, Wall
+
+**Detailed spatial description:**
+
+The primary object in the scene is a Kenmore microwave oven. It occupies a significant portion of the frame, positioned centrally within the image. The microwave is situated approximately 15-20 cm above the surface it rests upon, which appears to be a countertop or cabinet surface.  The microwave’s front panel, a glossy black surface, is directly facing the viewer. 
+
+Immediately above the microwave’s front panel is a prominent, horizontally-oriented control panel constructed of brushed stainless steel. This panel is positioned directly centered along the top edge of the microwave’s casing and extends approximately 60% of the microwave’s width.  The control panel is flush with the microwave’s casing. 
+
+Below the control panel, and directly beneath the microwave’s main body, is a rectangular ventilation grille. This grille is located centrally within the microwave’s interior cavity and occupies approximately 20% of the interior’s width. It’s positioned slightly lower than the center of the microwave’s opening. 
+
+Inside the microwave’s cavity, there is a dark, empty space – the interior cavity – which is roughly 30cm deep and 25cm wide. The interior cavity is completely enclosed by the microwave’s metallic casing. 
+
+To the left of the microwave, a small, silver brand logo – “Kenmore” – is affixed to the microwave’s casing. It’s positioned approximately 25% of the way along the left side of the microwave’s casing, and is slightly raised above the surrounding surface. 
+
+Finally, the microwave is entirely contained within a wall space.  The lower 30% of the wall surface is occupied by the countertop or cabinet upon which the microwave is placed. The microwave sits approximately 10-15 cm from the wall, leaving a small gap between the appliance and the wall surface. 
+
+Do you want me to focus on a specific aspect of the spatial analysis, such as the dimensions of the objects, or the relationship between the microwave and the surrounding environment?
